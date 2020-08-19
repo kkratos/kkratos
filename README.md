@@ -19,3 +19,7 @@
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kkratos"/></a>
 </p>
+
+<p align='center'>
+  📫 How to reach me: <a href='mailto:kamal.patel30@hotmail.com'>kamal.patel30@hotmail.com</a>
+</p>
