@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
- Mechanical Engineering. Currently learning to code. 
+ Studied Mechanical Engineering. Currently learning to code. 
 </p>
 
 <p align='center'>
