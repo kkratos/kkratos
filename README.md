@@ -7,3 +7,5 @@ Hi There! 👋
 <a  href="https://twitter.com/camalpatel">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
+
+[![kamal's github stats](https://github-readme-stats.vercel.app/api?username=kkratos)](https://github.com/kkratos/github-readme-stats)
