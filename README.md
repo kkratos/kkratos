@@ -17,5 +17,5 @@
 </p>
 
 <p align='center'>
-  <a href="#">[![kamal's github stats](https://github-readme-stats.vercel.app/api?username=kkratos)](https://github.com/kkratos/github-readme-stats)</a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kkratos"/></a>
 </p>
