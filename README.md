@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
- Studied Mechanical Engineering. Currently learning to code. 
+ Studied Mechanical Engineering. Currently learning to code. Interested in AI.
 </p>
 
 <p align='center'>
