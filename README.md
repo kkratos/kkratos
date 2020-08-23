@@ -19,7 +19,7 @@
 </p>
   
   
-<p align='center'>
+<p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kkratos"/></a>
 </p>
 
