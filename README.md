@@ -16,6 +16,10 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">👦 Kamal Patel | 💻 Working towards becoming a Full Stack Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
+<p align="center">
+   <a href="https://twitter.com/camalpatel"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/8bithemant?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@8bithemant"></a>
+ </p>
+
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kkratos"/></a>
 </p>
