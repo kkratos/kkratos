@@ -14,7 +14,7 @@
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/l41lGnjHehZGMixr2/giphy.gif" />
 <p align="center">
-  <h4>Studied Mechanical Engineer at NYU, Interested in AI. </h4>
+  <h3>Studied Mechanical Engineer at NYU, Interested in AI. </h3>
 </p>
   
 - 🥀 Learning Javascript  <code><img height="20" src=""></code>Reactjs <code> <img height="20" width="16" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code> &GraphQL <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>  
