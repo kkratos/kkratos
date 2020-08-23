@@ -3,13 +3,19 @@
   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
+![twitter](https://user-images.githubusercontent.com/27680814/90979211-a1d51800-e521-11ea-9eeb-b4c066352cf9.png)[1]
+![linkedin](https://user-images.githubusercontent.com/27680814/90979213-a39edb80-e521-11ea-8814-f2f559d7b0a7.png)[2]
+
+[1]: http://www.twitter.com/camalpatel
+[2]: https://www.linkedin.com/in/kamalpatel
+
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">👦 Kamal Patel | 💻 Aspiring Full Stack Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 <p align="center">
    <a href="https://twitter.com/camalpatel"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/camalpatel?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@camalpatel"></a>
- </p>
+</p>
 
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/l41lGnjHehZGMixr2/giphy.gif" />
