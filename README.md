@@ -8,14 +8,13 @@
 </p>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/kamalpatel/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://twitter.com/camalpatel">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
+ <a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true">  </a>&nbsp;&nbsp;
+ <a href="https://twitter.com/camalpatel"><img height="30" src="https://raw.githubusercontent.com/kkratos/kkratos/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 </p>
+
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">👦 Kamal Patel | 💻 Working towards becoming a Full Stack Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kkratos"/></a>
