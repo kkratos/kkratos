@@ -9,7 +9,8 @@
 
 <p align='center'>
  <a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img height="30" src="https://raw.githubusercontent.com/kkratos/kkratos/master/linkedin.png?raw=true">  </a>&nbsp;&nbsp;
- <a href="https://twitter.com/camalpatel"><img height="30" src="https://raw.githubusercontent.com/kkratos/kkratos/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+ <a href="https://twitter.com/camalpatel"><img height="30" src="![twitter](https://user-images.githubusercontent.com/27680814/90978696-a8fa2700-e51d-11ea-92a5-f3d7a5fb10d3.png)
+"></a>&nbsp;&nbsp;
 </p>
 
 <div align="center">
@@ -17,7 +18,7 @@
 </div>
 
 <p align="center">
-   <a href="https://twitter.com/camalpatel"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/8bithemant?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@camalpatel"></a>
+   <a href="https://twitter.com/camalpatel"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/camalpatel?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@camalpatel"></a>
  </p>
 
 <br />
