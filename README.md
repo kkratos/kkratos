@@ -3,8 +3,9 @@
   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
-![twitter](https://user-images.githubusercontent.com/27680814/90979211-a1d51800-e521-11ea-9eeb-b4c066352cf9.png)[1]
-![linkedin](https://user-images.githubusercontent.com/27680814/90979213-a39edb80-e521-11ea-8814-f2f559d7b0a7.png)[2]
+![linkedin48](https://user-images.githubusercontent.com/27680814/90979295-29bb2200-e522-11ea-9c57-d1c48a839912.png)[1]
+![twitter48](https://user-images.githubusercontent.com/27680814/90979296-2a53b880-e522-11ea-82a0-98d7516a6635.png)[2]
+
 
 [1]: http://www.twitter.com/camalpatel
 [2]: https://www.linkedin.com/in/kamalpatel
