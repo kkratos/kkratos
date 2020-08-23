@@ -30,10 +30,11 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
 <p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kkratos"/></a>
 </p>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kkratos.kkratos)
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:kamal.patel30@hotmail.com'>kamal.patel30@hotmail.com</a>
