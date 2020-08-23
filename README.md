@@ -3,8 +3,6 @@
   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-kamalpatel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamalpatel/)](https://www.linkedin.com/in/kamalpatel/)
-
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">👦 Kamal Patel | 💻 Aspiring Full Stack Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
