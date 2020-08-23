@@ -13,7 +13,7 @@
 </p>
 
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/l41lGnjHehZGMixr2/giphy.gif" />
+<img align="right" height="250px" width="450px" alt="GIF" src="https://media.giphy.com/media/l41lGnjHehZGMixr2/giphy.gif" />
 <p align="center">
   <h3>Aspiring Full Stack Developer, Interested in AI. </h3>
 </p>
