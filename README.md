@@ -3,13 +3,8 @@
   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
-<div align='center'>
-  [![linkedin48](https://user-images.githubusercontent.com/27680814/90979295-29bb2200-e522-11ea-9c57-d1c48a839912.png)][1] &nbsp;
-  [![twitter48](https://user-images.githubusercontent.com/27680814/90979296-2a53b880-e522-11ea-82a0-98d7516a6635.png)][2] &nbsp;
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-kamalpatel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamalpatel/)](https://www.linkedin.com/in/kamalpatel/)
 
-[1]: http://www.twitter.com/camalpatel
-[2]: https://www.linkedin.com/in/kamalpatel
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">👦 Kamal Patel | 💻 Aspiring Full Stack Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
@@ -24,8 +19,6 @@
 <p align="center">
   <h3>Studied Mechanical Engineer at NYU, Interested in AI. </h3>
 </p>
-  
-- 🥀 Learning Javascript  <code><img height="20" src=""></code>Reactjs <code> <img height="20" width="16" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code> &GraphQL <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>  
   
   
 <p align='center'>
