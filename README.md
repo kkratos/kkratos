@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">👦 Kamal Patel | 💻 Working towards becoming a Full Stack Developer | 🛸 India <img src="https://media.giphy.com/media/l41lGnjHehZGMixr2/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">👦 Kamal Patel | 💻 Working towards becoming a Full Stack Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 <p align='center'>
