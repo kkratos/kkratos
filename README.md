@@ -9,8 +9,8 @@
 
 <p align='center'>
  <a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img height="30" src="https://raw.githubusercontent.com/kkratos/kkratos/master/linkedin.png?raw=true">  </a>&nbsp;&nbsp;
- <a href="https://twitter.com/camalpatel"><img height="30" src="https://user-images.githubusercontent.com/27680814/90978696-a8fa2700-e51d-11ea-92a5-f3d7a5fb10d3.png
-"></a>&nbsp;&nbsp;
+ <a href="https://twitter.com/camalpatel">![twitter](https://user-images.githubusercontent.com/27680814/90978696-a8fa2700-e51d-11ea-92a5-f3d7a5fb10d3.png)
+</a>&nbsp;&nbsp;
 </p>
 
 <div align="center">
