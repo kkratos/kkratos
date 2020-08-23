@@ -3,17 +3,6 @@
   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
-<p align='center'>
- Studied Mechanical Engineering. Currently learning to code. Interested in AI.
-</p>
-
-<p align='center'>
- <a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img height="30" src=""></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/camalpatel">
-    <img src="https://raw.githubusercontent.com/kkratos/kkratos/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  </a>  
-</p>
-
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">👦 Kamal Patel | 💻 Aspiring Full Stack Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
@@ -25,7 +14,7 @@
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/l41lGnjHehZGMixr2/giphy.gif" />
 <p align="center">
-  <h3> I'm 26 years old Mechanical Engineer, learning to code. </h3>
+  <h3> I'm a Mechanical Engineer, Getting into Full Stack Development. Interested in AI. </h3>
 </p>
   
 - 🥀 Learning Javascript  <code><img height="20" src=""></code>Reactjs <code> <img height="20" width="16" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code> &GraphQL <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>  
