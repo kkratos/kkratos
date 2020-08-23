@@ -1,6 +1,6 @@
-<h1 align='center'>
-  Hi there 👋 I'm Kamal 👨‍💻
-</h1>
+<div align='center'>
+  <h1>Hi there, I'm Kamal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
 
 <p align='center'>
  Studied Mechanical Engineering. Currently learning to code. Interested in AI.
