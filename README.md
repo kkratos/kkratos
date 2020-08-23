@@ -9,7 +9,9 @@
 
 <p align='center'>
  <a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img height="30" src=""></a>&nbsp;&nbsp;
- <a href="https://twitter.com/camalpatel"><img height="30" src="http://i.imgur.com/tXSoThF.png"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/camalpatel">
+    <img src="https://raw.githubusercontent.com/kkratos/kkratos/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+  </a>  
 </p>
 
 <div align="center">
