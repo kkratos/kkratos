@@ -21,7 +21,7 @@
  </p>
 
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/l41lGnjHehZGMixr2/giphy.gif" />
 <p align="center">
   <h3> I'm 26 years old Mechanical Engineer, learning to code. </h3>
 </p>
