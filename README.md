@@ -22,6 +22,8 @@
      
  - 🔭 SpaceX Fan.
  
+ - Role Model - Elon Musk
+ 
  - Love to learn about space technology.
  
 ## ⚡ Technologies
