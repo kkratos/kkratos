@@ -15,7 +15,7 @@
 <br />
 <img align="right" height="250px" width="450px" alt="GIF" src="https://media.giphy.com/media/l41lGnjHehZGMixr2/giphy.gif" />
 <p align="center">
-  <h3>Aspiring Full Stack Developer, Interested in AI. </h3>
+  <h3>Interested in AI. </h3>
 </p>
  
  - Learning Javascript, Reactjs, Nodejs and GraphQL.
