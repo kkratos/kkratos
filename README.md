@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-   <a href="https://twitter.com/iamkamalpatel"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/camalpatel?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@iamkamalpatel"></a>
+   <a href="https://twitter.com/iamkamalpatel"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/iamkamalpatel?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@iamkamalpatel"></a>
 </p>
 
 <br />
